@@ -1,35 +1,26 @@
-The resources that we want to spider is roughly as fllows:
-https://arxiv.org/
+### A draft
+*The resources that we want to spider is roughly as fllows*:
+[预印本]https://arxiv.org/<br />
 which contains:
-https://arxiv.org/corr/home
-Artificial Intelligence; 20+
-Computer Vision and Pattern Recognition; 20+
-Machine Learning. 20+
+<https://arxiv.org/corr/home> <br/>
+1. Artificial Intelligence; 20+
+2. Computer Vision and Pattern Recognition; 20+
+3. Machine Learning. 20+
 
-the key words:
+__the key words__:
 
-Google Brain Team 
-
-The MalariaSpot Team 
-
-OpenAI Research Team 
-
-Nando de Freitas 
-
-Andrew Ng and Adam Coates 
-
-Jürgen Schmidhuber 
-
-Geoffrey Hinton 
-
-Michael Jordan 
-
-Yann LeCun 
-
-Yoshua Bengio 
+1. Google Brain Team 
+2. The MalariaSpot Team 
+3. OpenAI Research Team 
+4. Nando de Freitas 
+5. Jürgen Schmidhuber 
+6. Geoffrey Hinton 
+7. Michael Jordan 
+8. bYann LeCun 
+9. Yoshua Bengio 
 which can filter the weak papers and put the nice papers.
 
-http://www.gitxiv.com/
+[论文和代码]http://www.gitxiv.com/<br />
 paper and its code.
 
 if the paper's authour come from the above list, download it.
@@ -37,13 +28,13 @@ if the paper's title are also in gitxiv, get the paper and its code link.
 else choosing three paper and its code link from gitxiv.
 
 
-https://papers.nips.cc/
+[nips]https://papers.nips.cc/<br />
 choosing the newest papers and getting the paper name and authour names. "Independent"
 
-http://www.arxiv-sanity.com/
+[捋好的网站]http://www.arxiv-sanity.com/<br />
 getting the abstract and its link. "Independent"
 
-https://www.reddit.com/r/MachineLearning/
+[论坛]https://www.reddit.com/r/MachineLearning/<br />
 choosing the top three and two random articles from the above website. "Independent"
 
 
